@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/owenyang0/then.js/issues"
   },
-  "homepage": "https://github.com/owenyang0/then.js#readme"
+  "homepage": "https://github.com/owenyang0/then.js#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.1"
+  }
 }
